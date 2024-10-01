@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63841F0-D40C-45CF-A86C-CE569EAC0FC6}|5.3\\5.3.vcxproj|C:\\Users\\Admin\\source\\repos\\5.3\\5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F63841F0-D40C-45CF-A86C-CE569EAC0FC6}|5.3\\5.3.vcxproj|solutionrelative:5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668F295F-813F-4AF7-AC45-4E4153415C09}|unit_test_5.3\\unit_test_5.3.vcxproj|C:\\Users\\Admin\\source\\repos\\5.3\\unit_test_5.3\\unit_test_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{668F295F-813F-4AF7-AC45-4E4153415C09}|unit_test_5.3\\unit_test_5.3.vcxproj|solutionrelative:unit_test_5.3\\unit_test_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unit_test_5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\5.3\\unit_test_5.3\\unit_test_5.3.cpp",
+              "RelativeDocumentMoniker": "unit_test_5.3\\unit_test_5.3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\5.3\\unit_test_5.3\\unit_test_5.3.cpp",
+              "RelativeToolTip": "unit_test_5.3\\unit_test_5.3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:32:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\5.3\\5.3\\5.3.cpp",
+              "RelativeDocumentMoniker": "5.3\\5.3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\5.3\\5.3\\5.3.cpp",
+              "RelativeToolTip": "5.3\\5.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:07:56.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
